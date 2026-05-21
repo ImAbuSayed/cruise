@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I've been tracing the lines of your silhouette tonight
+> The way that you move is a beautiful crime
+> Got my engine running hot and the highway in sight
+> Let's fade into the dark and cross every line
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
