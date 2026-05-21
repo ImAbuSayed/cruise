@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cruise/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Cruise](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cruise/) |
+| **Get License** | [Obtain a Music License for Cruise](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cruise/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fc00d33dbfa55b950562a04905da9e5ca3cd0bd997bed81bb703bc2f90c47558` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
